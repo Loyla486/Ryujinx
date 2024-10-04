@@ -149,7 +149,7 @@ If you'd like to support the project financially, Ryujinx has an active Patreon 
 </a>
 
 All developers working on the project do so in their free time, but the project has several expenses:
-* Hackable NiSwitch consoles to reverse-engineer the hardware
+* Hackable Switch consoles to reverse-engineer the hardware
 * Additional computer hardware for testing purposes (e.g. GPUs to diagnose graphical bugs, etc.)
 * Licenses for various software development tools (e.g. Jetbrains, IDA)
 * Web hosting and infrastructure maintenance (e.g. LDN servers)
