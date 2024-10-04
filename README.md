@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml">
-        <img src="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml/badge.svg"
+        <img src="https://github.com/Loyla486/Ryujinx/actions/workflows/release.yml/badge.svg"
             alt="">
     </a>
     <a href="https://crwd.in/ryujinx">
@@ -47,10 +47,10 @@ Use the search function to see if a game has been tested already!
 
 ## Usage
 
-To run this emulator, your PC must be equipped with at least 8GiB of RAM;
+To run this emulator, your PC must be equipped with at least 16GiB of RAM;
 failing to meet this requirement may result in a poor gameplay experience or unexpected crashes.
 
-See our [Setup & Configuration Guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulator.
+See our [Setup & Configuration Guide](https://github.com/Loyla486/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulator.
 
 For our Local Wireless (LDN) builds, see our [Multiplayer: Local Play/Local Wireless Guide
 ](https://github.com/Ryujinx/Ryujinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide).
@@ -62,7 +62,7 @@ Avalonia UI comes with translations for various languages. See [Crowdin](https:/
 These builds are compiled automatically for each commit on the master branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, our automated builds **may be unstable or completely broken**.
 
-If you want to see details on updates to the emulator, you can visit our [Changelog](https://github.com/Ryujinx/Ryujinx/wiki/Changelog).
+If you want to see details on updates to the emulator, you can visit our [Changelog](https://github.com/Loyla486/Ryujinx/wiki/Changelog).
 
 The latest automatic build for Windows, macOS, and Linux can be found on the [Official Website](https://ryujinx.org/download).
 
@@ -138,7 +138,7 @@ This folder is located in the user folder, which can be accessed by clicking `Op
 ## Contact
 
 If you have contributions, suggestions, need emulator support or just want to get in touch with the team, join our [Discord server](https://discord.com/invite/Ryujinx).
-You may also review our [FAQ](https://github.com/Ryujinx/Ryujinx/wiki/Frequently-Asked-Questions).
+You may also review our [FAQ](https://github.com/Loyla486/Ryujinx/wiki/Frequently-Asked-Questions).
 
 ## Donations
 
