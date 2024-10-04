@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
+  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx Logo" width="150"></a>
   <br>
   <b>Ryujinx</b>
   <br>
@@ -47,7 +47,7 @@ Use the search function to see if a game has been tested already!
 
 ## Usage
 
-To run this emulator, your PC must be equipped with at least 16GiB of RAM;
+To run this emulator properly, your PC must be equipped with at least 16GiB of RAM; at least 6-Core 6-thread CPU; 
 failing to meet this requirement may result in a poor gameplay experience or unexpected crashes.
 
 See our [Setup & Configuration Guide](https://github.com/Loyla486/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulator.
@@ -81,7 +81,7 @@ Make sure your SDK version is higher or equal to the required version specified 
 
 ### Step 2
 
-Either use `git clone https://github.com/Ryujinx/Ryujinx` on the command line to clone the repository or use Code --> Download zip button to get the files.
+Either use `git clone https://github.com/Loyla486/Ryujinx` on the command line to clone the repository or use Code --> Download zip button to get the files.
 
 ### Step 3
 
@@ -141,8 +141,6 @@ If you have contributions, suggestions, need emulator support or just want to ge
 You may also review our [FAQ](https://github.com/Loyla486/Ryujinx/wiki/Frequently-Asked-Questions).
 
 ## Donations
-
-If you'd like to support the project financially, Ryujinx has an active Patreon campaign.
 
 Currently donations are not accepted.
 
