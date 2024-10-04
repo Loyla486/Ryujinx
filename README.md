@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx Logo" width="150"></a>
+  <a href="https://ryujinx.org/"><img src="https://github.com/Loyla486/Ryujinx-Website/blob/main/public/assets/images/favicon.png" alt="Ryujinx Logo" width="150"></a>
   <br>
   <b>Ryujinx</b>
   <br>
