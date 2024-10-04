@@ -12,13 +12,13 @@
   Ryujinx is an open-source Switch emulator, created by gdkchan, written in C#.
   This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
   It was written from scratch and development on the project began in September 2017.
-  Ryujinx is available on Github under the <a href="https://github.com/Loyla486/ImportTest/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
+  Ryujinx is available on Github under the <a href="/LICENSE.txt" target="_blank">MIT license</a>.
   <br />
 </p>
 
 <p align="center">
     <a href="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml">
-        <img src="https://github.com/Loyla486/ImportTest/actions/workflows/release.yml/badge.svg"
+        <img src="/actions/workflows/release.yml/badge.svg"
             alt="">
     </a>
     <a href="https://crwd.in/ryujinx">
@@ -144,17 +144,13 @@ You may also review our [FAQ](https://github.com/Loyla486/Ryujinx/wiki/Frequentl
 
 If you'd like to support the project financially, Ryujinx has an active Patreon campaign.
 
-<a href="https://www.patreon.com/ryujinx">
-    <img src="https://images.squarespace-cdn.com/content/v1/560c1d39e4b0b4fae0c9cf2a/1567548955044-WVD994WZP76EWF15T0L3/Patreon+Button.png?format=500w" width="150">
-</a>
+Currently donations are not accepted.
 
 All developers working on the project do so in their free time, but the project has several expenses:
 * Hackable Switch consoles to reverse-engineer the hardware
 * Additional computer hardware for testing purposes (e.g. GPUs to diagnose graphical bugs, etc.)
 * Licenses for various software development tools (e.g. Jetbrains, IDA)
 * Web hosting and infrastructure maintenance (e.g. LDN servers)
-
-All funds received through Patreon are considered a donation to support the project. Patrons receive early access to progress reports and exclusive access to developer interviews.
 
 ## License
 
