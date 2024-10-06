@@ -47,7 +47,7 @@ Use the search function to see if a game has been tested already!
 
 ## Usage
 
-To run this emulator properly, your PC must be equipped with at least 16GiB of RAM, at least 6-Core 6-thread CPU, and a dedicated GPU (With OpenGL 4.5 or Vulkan);
+To run this emulator properly, your PC must be equipped with at least 16GiB of RAM, at least 6-Core 6-thread CPU, and a dedicated GPU (With OpenGL 4.5+ or Vulkan);
 failing to meet this requirement may result in a poor gameplay experience or unexpected crashes.
 
 See our [Setup & Configuration Guide](https://github.com/Loyla486/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulator.
