@@ -31,7 +31,7 @@
     </a>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/public/assets/images/shell.png">
+    <img src="https://raw.githubusercontent.com/Loyla486/Ryujinx-Website/master/public/assets/images/shell.png">
 </p>
 
 ## Compatibility
